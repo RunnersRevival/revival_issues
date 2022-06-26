@@ -20,13 +20,13 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Screenshots or videos**
+If applicable, add screenshots or videos to help explain your problem.
 
 **Smartphone (please complete the following information):**
  - Device: [e.g. iPhone X]
  - OS: [e.g. iOS 14]
- - Version [e.g. 2.2.0]
+ - Version: [e.g. 2.2.0]
 
 **Additional context**
 Add any other context about the problem here.
