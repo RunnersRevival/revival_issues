@@ -20,7 +20,7 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots or video**
+**Screenshots or videos**
 If applicable, add screenshots or videos to help explain your problem.
 
 **Smartphone (please complete the following information):**
