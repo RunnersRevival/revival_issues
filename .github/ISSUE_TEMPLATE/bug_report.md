@@ -23,10 +23,10 @@ A clear and concise description of what you expected to happen.
 **Screenshots or videos**
 If applicable, add screenshots or videos to help explain your problem.
 
-**Smartphone (please complete the following information):**
+**Device specifications (please fill out the following information):**
  - Device: [e.g. iPhone X]
  - OS: [e.g. iOS 14]
- - Version: [e.g. 2.2.0]
+ - Game Version: [e.g. 2.2.3]
 
 **Additional context**
 Add any other context about the problem here.
